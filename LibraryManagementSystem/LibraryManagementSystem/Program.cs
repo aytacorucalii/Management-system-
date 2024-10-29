@@ -7,6 +7,8 @@ namespace LibraryManagementSystem
 {
     class Program
     {
+       
+
         static void Main(string[] args)
         {
          
@@ -14,15 +16,15 @@ namespace LibraryManagementSystem
             LibraryLocation location2 = new LibraryLocation(2, 3);
 
            
-            Book book1 = new Book("The Great Gatsby", 1925, BookJenre.Fiction, location1);
-            Book book2 = new Book("Sapiens: A Brief History of Humankind", 2011, BookJenre.NonFiction, location2);
+            Book book1 = new Book("Xeste Ruhlar", 2015, BookJenre.Fiction, location1);
+            Book book2 = new Book("Muthiss psklj", 2021, BookJenre.NonFiction, location2);
 
-            DVD dvd1 = new DVD("Inception", 2010);
-            DVD dvd2 = new DVD("The Matrix", 1999);
+            DVD dvd1 = new DVD("DVD1", 2010);
+            DVD dvd2 = new DVD("DVD2 ", 2020);
 
         
-            Magazine magazine1 = new Magazine("National Geographic", 2022);
-            Magazine magazine2 = new Magazine("Time", 2023);
+            Magazine magazine1 = new Magazine("MAgazine1", 2022);
+            Magazine magazine2 = new Magazine("Magazine2", 2023);
 
             Console.WriteLine("Booklar:");
             book1.DisplayInfo();
@@ -39,7 +41,17 @@ namespace LibraryManagementSystem
             magazine2.DisplayInfo();
             Console.WriteLine();
 
-         
+
+
+            try
+            {
+                
+            }
+            catch (CustomBookError ex)
+            {
+                Console.WriteLine($"Hata: {ex.Message}");
+            }
+
             int bookAge = book1.CalculateAge();
             Console.WriteLine($"'{book1.Title}' kitabının yaşı: {bookAge} il");
 

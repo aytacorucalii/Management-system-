@@ -12,7 +12,7 @@ namespace LibraryManagementSystem.Models
         {
         }
 
-        public CustomBookError(string? message, Exception? innerException) : base(message, innerException)
+        public CustomBookError(string? message, Exception? exception) : base(message)
         {
         }
     }

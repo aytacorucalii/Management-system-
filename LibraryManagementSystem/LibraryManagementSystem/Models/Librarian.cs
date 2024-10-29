@@ -2,7 +2,7 @@
 
 namespace LibraryManagementSystem.Models
 {
-    public class Librarian : Person
+    public class Librarian : Person 
     {
         public DateTime HireDate { get; set; }
         public Librarian(string name, DateTime hireDate) : base(name)
@@ -11,7 +11,7 @@ namespace LibraryManagementSystem.Models
         }
         public override string ToString()
         {
-            return $"Kitabxanaçının Adı: {Name}, İşə Götürülmə Tarixi: {HireDate.ToShortDateString()}";
+            return $"Kitabxanaçının Adı: {Name}, İşə Götürülmə Tarixi: {HireDate}";
         }
     }
 }

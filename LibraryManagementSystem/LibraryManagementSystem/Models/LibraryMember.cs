@@ -11,7 +11,7 @@ namespace LibraryManagementSystem.Models
         }
         public override string ToString()
         {
-            return $"Kitabxana Üzvünün Adı: {Name}, Üzv Olma Tarixi: {MembershipDate.ToShortDateString()}";
+            return $"Kitabxana Üzvünün Adı: {Name}, Üzv Olma Tarixi: {MembershipDate}";
         }
     }
 }
