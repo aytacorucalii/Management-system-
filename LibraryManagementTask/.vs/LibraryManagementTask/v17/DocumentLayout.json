@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\librarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\librarymemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\librarymanagementtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\librarymanagementtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\ilibrarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\ilibrarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\models\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\helpers\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\helpers\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\exceptions\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\exceptions\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\enums\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\enums\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|c:\\users\\hp\\source\\repos\\librarymanagementtask\\librarymanagementtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7E3B81-2326-4F64-B088-8D8D59289DFF}|LibraryManagementTask\\LibraryManagementTask.csproj|solutionrelative:librarymanagementtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\LibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\LibrarianService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\LibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\LibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:33:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\ILibrarianService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\ILibrarianService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\ILibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:34:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\ILibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\ILibraryMember.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\ILibraryMember.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\ILibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:55:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\LibraryMemberService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\LibraryMemberService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\LibraryMemberService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\LibraryMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:54:41.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryManagementTask",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\LibraryManagementTask.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\LibraryManagementTask.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\LibraryManagementTask.csproj",
+              "RelativeToolTip": "LibraryManagementTask\\LibraryManagementTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T20:29:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:55:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:54:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:34:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibrarianStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\LibrarianStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:30:57.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryMember.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:36:30.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:36:07.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:36:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Person.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:36:54.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:35:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:35:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:34:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Models\\DVD.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Models\\DVD.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Models\\DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:34:39.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Helpers\\LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:32:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryItemException.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Exceptions\\LibraryItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:31:44.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookGenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Enums\\BookGenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:30:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\LibraryManagementTask\\LibraryManagementTask\\Program.cs",
+              "RelativeToolTip": "LibraryManagementTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:27:10.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
