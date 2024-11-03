@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\bin\Debug\net8.0\HospitalManagementTask.exe
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\bin\Debug\net8.0\HospitalManagementTask.deps.json
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\bin\Debug\net8.0\HospitalManagementTask.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\bin\Debug\net8.0\HospitalManagementTask.dll
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\bin\Debug\net8.0\HospitalManagementTask.pdb
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.dll
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\refint\HospitalManagementTask.dll
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.pdb
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\HospitalManagementTask.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Management\HospitalManagementTask\HospitalManagementTask\obj\Debug\net8.0\ref\HospitalManagementTask.dll

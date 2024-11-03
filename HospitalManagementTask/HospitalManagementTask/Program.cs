@@ -7,6 +7,9 @@ namespace HospitalmanagementTask
         static void Main(string[] args)
         {
             AppointmentService appointmentService = new AppointmentService();
+            
+            var selectedAppointments = appointmentService.GettSelectedTimeAppointment();
+
             bool isRunning = true;
 
             while (isRunning)

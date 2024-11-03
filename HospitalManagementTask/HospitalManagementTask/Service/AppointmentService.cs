@@ -88,7 +88,20 @@ namespace HospitalManagementTask.Service
 
             return continuingAppointments;
         }
-
+        public List<Appointment> GettSelectedTimeAppointment()
+        {
+            DateTime SelectTime = new DateTime(2024, 11, 03);  
+           // DateTime Date = DateTime.Now;
+            DateTime EndSelectTime = SelectTime.AddDays(-20);
+            List<Appointment> selectedTimeAppointment = [];
+            foreach (var appointment in appointments)
+            {
+                if ( SelectTime >= EndSelectTime  )
+                {
+                    selectedTimeAppointment.Add(appointment);
+                }
+            }
+            return selectedTimeAppointment;
+        }
     }
-}
 }

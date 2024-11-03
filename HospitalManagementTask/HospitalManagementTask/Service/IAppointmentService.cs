@@ -16,6 +16,7 @@ namespace HospitalManagementTask.Service
         List<Appointment> GetWeeklyAppointments();
         List<Appointment> GetTodaylyAppointments();
         List<Appointment> GetAllContinuingAppointment();
+        List<Appointment> GettSelectedTimeAppointment();
     }
 }
 
